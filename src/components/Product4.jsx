@@ -32,7 +32,7 @@ function Product4() {
       </div>
       <div class="button-cart d-flex">
         <a href="#">
-          <button>Add To Busket</button>
+          <button>Add To Basket</button>
         </a>
       </div>
     </div>
